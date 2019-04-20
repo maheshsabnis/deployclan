@@ -1,0 +1,34 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel --presets es2015 -d res/ src",
+    "babel": "babel --presets es2015 src/app.js -o res/app.bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/sequelize": "^4.27.46",
+    "aws-sdk": "^2.437.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5",
+    "requests": "^0.2.2",
+    "sequelize": "^5.2.13",
+    "sequelize-auto": "^0.4.29",
+    "swagger-jsdoc": "^3.2.8",
+    "swagger-ui-express": "^4.0.2"
+  },
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}

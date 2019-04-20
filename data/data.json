@@ -1,0 +1,44 @@
+[
+    {
+        "CategoryName": "Electrical",
+        "Manufacturer": "MS-Power",
+        "Price": 2000,
+        "ProductId": "Prd0001",
+        "ProductName": "Iron"
+    },
+    {
+        "CategoryName": "Electrical",
+        "Manufacturer": "TS-Power",
+        "Price": 2400,
+        "ProductId": "Prd0002",
+        "ProductName": "Mixer"
+    },
+    {
+        "CategoryName": "Electronics",
+        "Manufacturer": "MSIT",
+        "Price": 98000,
+        "ProductId": "Prd0003",
+        "ProductName": "Laptop"
+    },
+    {
+        "CategoryName": "Electronics",
+        "Manufacturer": "TSIT",
+        "Price": 20000,
+        "ProductId": "Prd0004",
+        "ProductName": "Desktop"
+    },
+    {
+        "CategoryName": "Food",
+        "Manufacturer": "MS-Food",
+        "Price": 20,
+        "ProductId": "Prd0005",
+        "ProductName": "Lays"
+    },
+    {
+        "CategoryName": "Food",
+        "Manufacturer": "TS-Food",
+        "Price": 300,
+        "ProductId": "Prd0006",
+        "ProductName": "Chips"
+    }
+]
